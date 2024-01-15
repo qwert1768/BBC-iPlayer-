@@ -6,3 +6,4 @@ mask-h2.icloud.com
 mask-t.apple-dns.net
 cloud.cupronickel.goog
 googleapis.com
+baidu.com
